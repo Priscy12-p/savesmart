@@ -108,7 +108,7 @@ savesmart/
 - Users cannot create their own savings goals yet.
 - Savings information is not permanently stored.
 - Firebase Authentication has not yet been implemented.
-- Automated tests still need to be written and run.
+- Automated tests still need to be written and run..
 
 ## Future Improvements
 
